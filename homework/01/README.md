@@ -4,7 +4,7 @@ neptun: YV4RVH
 ---
 Kiinduló FigJam-board: egy iRacing telemetria-elemző desktop alkalmazás problémafeltárását.
 
-**FigJam-board:** https://www.figma.com/board/ISoXoN1UwJEcWdYCnzNe05
+**FigJam-board:** https://www.figma.com/board/rcQ2oV1cd0kX9QzXVfd2Fm?node-id=1-9
 
 A board szekciói:
 

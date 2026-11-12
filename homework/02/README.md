@@ -4,7 +4,7 @@ neptun: YV4RVH
 ---
 Felhasználói kutatás, persona és user journey: az iRacing telemetria-elemző desktop alkalmazás felfedező kutatása.
 
-**FigJam-board („2. Kutatás” szekció, az 1. házi alatt):** https://www.figma.com/board/ISoXoN1UwJEcWdYCnzNe05?node-id=11-136
+**FigJam-board („2. Kutatás” szekció, az 1. házi alatt):** https://www.figma.com/board/rcQ2oV1cd0kX9QzXVfd2Fm?node-id=3-152
 
 > **Az adatokról:** az interjúk szintetikusak, a válaszokat AI generálta. Az öt résztvevő (R1–R5) kitalált, de a célcsoportot reprezentálja. Személyes adat nem szerepel sem a boardon, sem a jegyzetekben.
 
