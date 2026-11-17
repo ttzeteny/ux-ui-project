@@ -2,7 +2,7 @@
 
 Natív desktop alkalmazás (Windows/macOS), amely automatikusan beolvassa az iRacing `.ibt` telemetriafájljait, és a középhaladó–haladó versenyzőknek kognitív túlterhelés nélkül mutatja meg, hol veszítenek időt egy körön. Üzleti modell: freemium SaaS havi előfizetéssel.
 
-**Jelenlegi állapot:** kattintható prototípus kész (1–7. házi kész).
+**Jelenlegi állapot:** iteráció, mini design system és átadás kész (1–9. házi kész).
 
 ## Timeline
 
@@ -15,8 +15,8 @@ Natív desktop alkalmazás (Windows/macOS), amely automatikusan beolvassa az iRa
 | 05  | Információarchitektúra és user flow | [FigJam „5. IA és user flow”](https://www.figma.com/board/rcQ2oV1cd0kX9QzXVfd2Fm?node-id=18-1018), [házi leírás](../homework/05/README.md), [részletes leírás](docs/05-ia-es-user-flow.md) |
 | 06  | Wireframe-ek | [Figma wireframe](https://www.figma.com/design/FuNI5vQfABJU65oCM8jcZR), [házi leírás](../homework/06/README.md), [részletes leírás](docs/06-wireframe.md) |
 | 07  | Kattintható prototípus | [Figma prototípus](https://www.figma.com/proto/FuNI5vQfABJU65oCM8jcZR?node-id=2-2&starting-point-node-id=2%3A2), [házi leírás](../homework/07/README.md), [részletes leírás](docs/07-prototipus.md) |
-| 08  | Használhatósági teszt, mini UI-irányelv | |
-| 09  | Iteráció, mini design system | |
+| 08  | Használhatósági teszt, mini UI-irányelv | [Finomított prototípus](https://www.figma.com/proto/FuNI5vQfABJU65oCM8jcZR?node-id=27-1108&starting-point-node-id=27%3A1108), [házi leírás](../homework/08/README.md), [részletes leírás](docs/08-teszt-es-ui-iranyelv.md) |
+| 09  | Iteráció, mini design system | [Figma (design system, átadás)](https://www.figma.com/design/FuNI5vQfABJU65oCM8jcZR), [házi leírás](../homework/09/README.md), [részletes leírás](docs/09-iteracio-es-design-system.md) |
 | 10  | Projektprezentáció | |
 
 ## További dokumentumok
@@ -28,3 +28,5 @@ Natív desktop alkalmazás (Windows/macOS), amely automatikusan beolvassa az iRa
 - 5. fejezet: [tartalomleltár, kártyarendezés, sitemap, user flow, wireframe-lista](docs/05-ia-es-user-flow.md)
 - 6. fejezet: [low-fi wireframe (desktop + kompakt ablak, állapotok, annotációk)](docs/06-wireframe.md)
 - 7. fejezet: [kattintható prototípus (flow-k, forgatókönyv, korlátok, megfigyelések)](docs/07-prototipus.md)
+- 8. fejezet: [használhatósági teszt, leletek, javítások és mini UI-irányelv](docs/08-teszt-es-ui-iranyelv.md)
+- 9. fejezet: [iteráció, döntési napló, 2. tesztkör, mini design system, átadás](docs/09-iteracio-es-design-system.md)
